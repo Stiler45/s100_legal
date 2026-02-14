@@ -1,0 +1,297 @@
+# Privacy Policy for It Girl: Affirmations
+
+**Last Updated:** February 14, 2026
+
+## Introduction
+
+It Girl: Affirmations ("App", "we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
+
+Please read this privacy policy carefully. If you do not agree with our policies and practices, please do not use our App.
+
+---
+
+## 1. Information We Collect
+
+### 1.1 Information You Provide Directly
+
+**User Profile Information:**
+- Name
+- Gender/Gender identity
+- Profile preferences
+
+**Onboarding Responses:**
+- Interest categories
+- Personal goals and objectives
+- Emotional state information
+- Prior experience with affirmations
+- Preferred practice methods
+- Daily commitment level
+- Purpose for using the App
+
+**User-Generated Content:**
+- Affirmations you create
+- Customized affirmations generated based on your inputs
+- Marked affirmations ("Bow Tied" favorites)
+- Background photos and images you upload
+- Any notes or comments you save
+
+### 1.2 Information Collected Automatically
+
+**Device Information:**
+- Device ID (Identifier For Vendor - IDFV)
+- Device type and model
+- Operating system and version
+- App version
+
+**Usage Information:**
+- App interactions and engagement metrics
+- Features accessed
+- Content preferences
+- Widget settings and customizations
+- Notification preferences
+
+**Subscription Information:**
+- Subscription status (handled through Superwall)
+- Purchase history and transactions
+- App access tier
+
+**Authentication Data:**
+- Unique User ID (from Supabase anonymous authentication)
+- Session information
+
+---
+
+## 2. How We Use Your Information
+
+We use the collected information for the following purposes:
+
+### 2.1 Core App Functionality
+- Create and maintain your user account
+- Generate personalized affirmations based on your goals and preferences
+- Store and sync your affirmations, preferences, and settings across devices
+- Display customized affirmations through the app, widgets, and home screen widgets
+- Manage your subscription and payment processing
+
+### 2.2 Personalization
+- Customize affirmation recommendations based on your interests and goals
+- Generate AI-powered affirmations tailored to your specific needs
+- Filter and display affirmations matching your preferences
+- Personalize your widget experience
+
+### 2.3 Service Improvement
+- Understand how you use the App to improve features and functionality
+- Fix bugs and technical issues
+- Optimize app performance and reliability
+- Ensure app stability and security
+
+### 2.4 Notifications
+- Send you personalized affirmation reminders (if enabled)
+- Notify you about app updates or important changes
+
+We do **not** use your information for:
+- Third-party advertising
+- Selling your data to marketers or data brokers
+- Behavioral tracking across other apps
+- Profiling for targeted ads
+
+---
+
+## 3. Third-Party Service Providers
+
+We use the following third-party services that may access your data:
+
+### 3.1 Supabase
+- **Purpose:** Database and backend services
+- **Data Shared:** User ID, affirmations, onboarding answers, profile preferences, background images
+- **Privacy Policy:** https://supabase.com/privacy
+- **Data Location:** Encrypted and stored securely on Supabase servers
+
+### 3.2 Superwall
+- **Purpose:** Subscription management and in-app purchases
+- **Data Shared:** Device ID, subscription status, purchase history
+- **Privacy Policy:** https://www.superwall.com/privacy
+- **Note:** Superwall handles all payment processing; your payment card information is not processed by us
+
+---
+
+## 4. Data Storage and Security
+
+### 4.1 Storage Locations
+- **Local Device:** Affirmations, preferences, settings stored on your device using secure local storage
+- **Cloud:** User profile data and affirmations synced to Supabase servers for backup and cross-device synchronization
+- **App Groups:** Limited data shared between the main app and widgets (affirmation texts, widget settings only)
+
+### 4.2 Security Measures
+- All data transmitted to Supabase uses encrypted HTTPS connections
+- Supabase implements industry-standard security practices
+- Your account uses anonymous authentication (no password required)
+- Local device data is protected by iOS security features
+- We do not store payment card information
+
+### 4.3 Data We Do Not Collect
+- Email address or phone number (unless you voluntarily provide it for support)
+- Precise location data
+- Health records or medical information
+- Contacts or address book data
+- Biometric data
+
+---
+
+## 5. Data Retention and Deletion
+
+### 5.1 How Long We Keep Your Data
+- **Active Accounts:** Data is retained as long as your account is active
+- **Inactive Accounts:** Data is retained for up to 2 years of inactivity, after which it may be deleted
+- **Affirmations & Preferences:** Deleted when you remove them from the app or request account deletion
+
+### 5.2 Requesting Data Deletion
+You can delete your account and all associated data through the App's settings:
+1. Open the App
+2. Navigate to Settings
+3. Select "Delete Account"
+4. Confirm deletion
+
+Upon deletion:
+- Your profile and affirmations are removed from our servers
+- Local device data is cleared
+- Your Supabase user record is deleted
+- You will need to create a new account if you wish to use the App again
+
+For additional data deletion requests, contact: [your contact email]
+
+---
+
+## 6. Your Privacy Rights
+
+Depending on your location, you may have the following rights:
+
+### 6.1 GDPR Rights (EU Residents)
+- **Right to Access:** Request a copy of your personal data
+- **Right to Rectification:** Correct inaccurate or incomplete data
+- **Right to Erasure:** Request deletion of your data ("Right to be Forgotten")
+- **Right to Restrict Processing:** Limit how we use your data
+- **Right to Portability:** Receive your data in a structured, portable format
+- **Right to Object:** Opt-out of certain data processing
+- **Right to Withdraw Consent:** Revoke consent for data collection and processing
+
+### 6.2 CCPA Rights (California Residents)
+- **Right to Know:** Know what personal information is collected, used, and shared
+- **Right to Delete:** Request deletion of personal information
+- **Right to Opt-Out:** Opt-out of the sale or sharing of personal information
+- **Right to Non-Discrimination:** No discrimination for exercising privacy rights
+
+### 6.3 Other Regions
+We comply with applicable data protection laws in your jurisdiction.
+
+**To exercise your rights:** Contact [your contact email]
+
+---
+
+## 7. Children's Privacy
+
+The App is not intended for children under 13 years old. We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we will promptly delete such information and terminate their account.
+
+---
+
+## 8. Push Notifications
+
+We may send you optional push notifications for personalized affirmations and reminders. You can manage notification preferences:
+- Through the App: Settings > Notifications
+- Through your device: Settings > Notifications > It Girl
+
+---
+
+## 9. Data Sharing and Disclosure
+
+We **do not share** your personal information with:
+- Third-party marketers or advertisers
+- Data brokers or data sellers
+- Social media platforms (unless you explicitly choose to share)
+
+We **may disclose** your information only if required by:
+- Law or legal process (subpoena, court order)
+- Protection of rights, privacy, safety, or property
+- Enforcement of our Terms of Service
+- Prevention of fraud or security issues
+
+---
+
+## 10. International Data Transfers
+
+Your information may be processed and stored on servers located outside your country of residence. By using the App, you consent to the transfer of your information to countries outside your country of residence, which may have different data protection laws.
+
+Supabase ensures appropriate safeguards for international data transfers, including Standard Contractual Clauses where applicable.
+
+---
+
+## 11. Links to Third-Party Websites
+
+The App may contain links to third-party websites and services. This Privacy Policy does not apply to third-party websites, and we are not responsible for their privacy practices. Please review their privacy policies before providing your information.
+
+---
+
+## 12. Analytics and Crash Reporting
+
+Currently, the App does not use analytics or automatic crash reporting services. We do not collect anonymous usage statistics or performance data.
+
+If we add analytics in the future, we will update this Privacy Policy and notify you.
+
+---
+
+## 13. Changes to This Privacy Policy
+
+We may update this Privacy Policy periodically to reflect changes in our practices, technology, legal requirements, or other factors. We will notify you of any material changes by:
+- Updating the "Last Updated" date at the top of this policy
+- Posting the new policy within the App
+- Requiring your consent for significant changes
+
+Your continued use of the App after changes constitute your acceptance of the updated Privacy Policy.
+
+---
+
+## 14. Contact Us
+
+If you have questions, concerns, or requests regarding this Privacy Policy or our privacy practices, please contact us:
+
+**Email:** [your email address]
+**Address:** [your address, if applicable]
+**Response Time:** We will respond to privacy inquiries within 30 days
+
+---
+
+## 15. Additional Information by Region
+
+### For EU/GDPR Compliance:
+- **Data Controller:** [Your Name/Company]
+- **Data Protection Officer:** [Your DPO contact, if applicable]
+- **Legal Basis:** Performance of contract, consent, legitimate interests, legal obligations
+- **Legitimate Interests:** Improving app functionality, preventing fraud, app security
+- **Data Subject Rights:** See Section 6.1
+
+### For California/CCPA Compliance:
+- **Disclosure Requirements:** See Section 6.2
+- **Right to Opt-Out:** You may opt-out through your device settings
+- **Categories of Information:** See Section 1
+
+---
+
+## 16. Summary of Data Practices
+
+| Data Type | Collection | Use | Retention | Sharing |
+|-----------|-----------|-----|-----------|---------|
+| Name | Direct input | Personalization, app functionality | Until deleted | Not shared |
+| Gender | Direct input | Personalization | Until deleted | Not shared |
+| Affirmations | User-created & AI-generated | Display, personalization | Until deleted | Not shared |
+| Photos | User uploaded | Background images, personalization | Until deleted | Not shared |
+| User ID | Automatic (Supabase) | Account management | Until deleted | Internal only |
+| Device ID | Automatic | Subscription management (Superwall) | Retained by Superwall | Superwall only |
+| Onboarding Data | Direct input | Personalization | Until deleted | Not shared |
+| App Settings | Automatic | Functionality | Until deleted | Not shared |
+
+---
+
+**Your privacy is important to us. Thank you for trusting It Girl: Affirmations.**
+
+---
+
+*This Privacy Policy is provided in English. If there are discrepancies between the English version and any translated version, the English version shall prevail.*
